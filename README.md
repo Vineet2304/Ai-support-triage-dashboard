@@ -5,11 +5,6 @@ I wanted to build a **Support Engine** that helps agents work smarter, not harde
 
 My solution acts as an **AI Co-Pilot** — it automatically analyzes incoming messages for **urgency**, **sentiment**, and **intent** so agents can focus on the most critical issues first.
 
-## 🔗 Live Demo (Deployed)
-
-* **Agent Dashboard (Frontend):** [https://branch-messaging-app-pi.vercel.app/](https://branch-messaging-app-pi.vercel.app/)  
-* **Backend API:** [https://branch-messaging-app-rqmy.onrender.com](https://branch-messaging-app-rqmy.onrender.com)
-
 ## 🚀 Key Features
 
 ### 1. Intelligent Triage (NLP)
